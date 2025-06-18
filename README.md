@@ -13,4 +13,8 @@ Wireframe for finance app :
 Landing page for ev bike : 
 ![image](https://github.com/user-attachments/assets/f55c298f-be55-4af9-aef5-fae026207698)
 
+Photo of my project : 
+![Landing page](https://github.com/user-attachments/assets/3f340e8b-6e81-466c-b372-d3248b305aab)
+
+
 
